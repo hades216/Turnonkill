@@ -1,0 +1,6 @@
+{
+  "name": "HOME FIXER — Home Maintenance, Repair & AC Services",
+  "description": "Professional home maintenance, plumbing, electrical, painting, and AC repair services serving Bahria Town, Rawalpindi, and Islamabad. Open 24 Hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
